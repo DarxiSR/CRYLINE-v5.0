@@ -9,3 +9,4 @@
  * HackTheBox: https://www.hackthebox.eu/profile/37928
 ------------------
 
+# ./BIN - Compiled files
