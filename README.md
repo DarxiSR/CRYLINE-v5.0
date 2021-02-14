@@ -7,4 +7,4 @@
  * Telegram: @Darxis
  * Jabber: Darxis@exploit.im
  * HackTheBox: https://www.hackthebox.eu/profile/37928
-## -----------------
+------------------
