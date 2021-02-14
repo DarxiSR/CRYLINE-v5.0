@@ -23,3 +23,10 @@
 - ./SOURCE/bannerLoader.asm - Second MBR
 - ./SOURCE/bannerKernel.asm - Banner that is displayed after drive encryption
 ------------------
+
+## Dropper
+This's a simple malware for writing files to drive.
+* First 512 bytes of hard drive - encryptLoader.bin
+* Second 1024 bytes of hard drive - bannerKernel.bin
+* Third 1024 bytes of hard drive - bannerLoader.bin
+* Fourth 1024 bytes of hard drive - bannerLoader.bin
