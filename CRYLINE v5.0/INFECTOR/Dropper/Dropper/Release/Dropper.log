@@ -1,0 +1,15 @@
+﻿Сборка начата 14.12.2020 4:27:02.
+     1>Проект "C:\Users\breke\Desktop\CRYLINE v5.0\INFECTOR\Dropper\Dropper\Dropper.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /nologo /W0 /WX- /sdl /Ox /Oi /Ot /Oy- /GT /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /GR- /openmp- /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt dropper.cpp
+         dropper.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\breke\Desktop\CRYLINE v5.0\INFECTOR\Dropper\Release\Dropper.exe" /VERSION:"5.0" /INCREMENTAL:NO /NOLOGO /ALLOWBIND kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='requireAdministrator' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\breke\Desktop\CRYLINE v5.0\INFECTOR\Dropper\Release\Dropper.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /MACHINE:X86 /SAFESEH Release\dropper.obj
+         Создание кода
+         Создание кода завершено
+         Dropper.vcxproj -> C:\Users\breke\Desktop\CRYLINE v5.0\INFECTOR\Dropper\Release\Dropper.exe
+     1>Сборка проекта "C:\Users\breke\Desktop\CRYLINE v5.0\INFECTOR\Dropper\Dropper\Dropper.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.47
