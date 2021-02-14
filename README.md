@@ -1,4 +1,5 @@
-# INFORMATION
+------------------
+# INFORMATION #
 ------------------
 
 ## - Contact -
