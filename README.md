@@ -11,6 +11,13 @@
 
 + ./BIN - Compiled files
 + ./SOURCE - Source code
-+ ./TEST_DISK - Disk image
++ ./TEST_DISK - Drive image
 + ./TOOLS - Compiler and additionally utilities
-+ ./CRYLINE_COMPILER - Simple win command line script for autocompile
++ ./CRYLINE_COMPILER - Simple Windows command line script for autocompile
+------------------
+
+- ./SOURCE/encryptLoader.asm - First MBR
+- ./SOURCE/driveEncryption.asm - Encryption module [THIS CIPHER IS VERY WEAK! It was used only for testing!]
+- ./SOURCE/bannerLoader.asm - Second MBR
+- ./SOURCE/bannerKernel.asm - Banner that is displayed after drive encryption
+------------------
