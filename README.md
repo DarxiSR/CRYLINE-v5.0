@@ -10,3 +10,7 @@
 ------------------
 
 ### ./BIN - Compiled files
+### ./SOURCE - Source code
+### ./TEST_DISK - Disk image
+### ./TOOLS - Compiler and additionally utilities
+### ./CRYLINE_COMPILER - Simple win command line script for autocompile
