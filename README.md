@@ -9,6 +9,7 @@
  * HackTheBox: https://www.hackthebox.eu/profile/37928
 ------------------
 
+## Directories
 + ./BIN - Compiled files
 + ./SOURCE - Source code
 + ./TEST_DISK - Drive image
@@ -16,6 +17,7 @@
 + ./CRYLINE_COMPILER - Simple Windows command line script for autocompile
 ------------------
 
+## Files
 - ./SOURCE/encryptLoader.asm - First MBR
 - ./SOURCE/driveEncryption.asm - Encryption module [THIS CIPHER IS VERY WEAK! It was used only for testing!]
 - ./SOURCE/bannerLoader.asm - Second MBR
