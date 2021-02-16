@@ -34,4 +34,6 @@ This's a simple malware for writing files to drive.
 * Second 1024 bytes of hard drive - bannerKernel.bin
 * Third 1024 bytes of hard drive - bannerLoader.bin
 * Fourth 512 bytes of hard drive - bannerLoader.bin
+
+![image info](./Encryption.jpg)
 ------------------
